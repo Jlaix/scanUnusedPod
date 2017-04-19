@@ -140,5 +140,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-# python scan_unused_dependencies.py --codes /Users/liqiyu/Work/code/DeliciousFood/Classes --pods /Users/liqiyu/Work/code/iphone-nova/Nova/Pods --podspec /Users/liqiyu/Work/code/DeliciousFood/DeliciousFood.podspec
-# python scan_unused_dependencies.py --podspec /Users/liqiyu/Work/code/DeliciousFood/DeliciousFood.podspec
